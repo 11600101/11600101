@@ -1,12 +1,11 @@
+# Welcome to My GitHub Profile ✨
 
-#Welcome to My GitHub Profile ✨
-
-##About Me
+## About Me
 <p>Hi I'm a passionate developer who loves creating beautiful and interactive web applications. I specialize in **JavaScript**, **Python**, and **C**.</p>
 
 ---
 
-##My Skills & Technologies 🛠️
+## My Skills & Technologies 🛠️
 
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
   <!-- Skill 1 -->
