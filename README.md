@@ -1,12 +1,12 @@
 
-<h1 style="cursor: default;">Welcome to My GitHub Profile ✨</h1>
+<div align=""center>Welcome to My GitHub Profile ✨</div>
 
-<h2 class="title">About Me</h2>
+##About Me
 <p>Hi there! I'm a passionate developer who loves creating beautiful and interactive web applications. I specialize in **JavaScript**, **React**, and **Node.js**.</p>
 
 ---
 
-<h2 class="title">My Skills & Technologies 🛠️</h2>
+##My Skills & Technologies 🛠️
 
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
   <!-- Skill 1 -->
