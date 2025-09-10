@@ -1,4 +1,7 @@
 # Welcome to My GitHub Profile ✨
+<div style="width: 100%;">
+  <img src="SVG.svg" style="width: 100%;" alt="Click to see the source">
+</div>
 
 ## About Me
 <p>Hi I'm a passionate developer who loves creating beautiful and interactive web applications. I specialize in **JavaScript**, **Python**, and **C**.</p>
