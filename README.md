@@ -1,8 +1,8 @@
 
-<div align=""center>Welcome to My GitHub Profile ✨</div>
+#Welcome to My GitHub Profile ✨
 
 ##About Me
-<p>Hi there! I'm a passionate developer who loves creating beautiful and interactive web applications. I specialize in **JavaScript**, **React**, and **Node.js**.</p>
+<p>Hi I'm a passionate developer who loves creating beautiful and interactive web applications. I specialize in **JavaScript**, **Python**, and **C**.</p>
 
 ---
 
@@ -60,9 +60,16 @@ Here are a few of my recent projects:
 
 ---
 
-## Fun Facts 🎉
-- I love solving **algorithm challenges** and participate in online coding contests.
-- I enjoy working with **open-source projects**.
+<svg width="600" height="200">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        h1 { color: white; background: black; padding: 10px; }
+      </style>
+      <h1>Hello from SVG!</h1>
+    </div>
+  </foreignObject>
+</svg>
 
 ---
 
