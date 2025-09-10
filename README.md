@@ -1,12 +1,5 @@
-<style>
-  *{
-    font-family: Inter;
-  }
-  .title:hover{
-    scale: 1.1;
-  }
-</style>
-<h1 class="title">Welcome to My GitHub Profile ✨</h1>
+
+<h1 onmouseover="this.style.scale='1.1'" onmouseout="this.style.scale='1.0';">>Welcome to My GitHub Profile ✨</h1>
 
 <h2 class="title">About Me</h2>
 <p>Hi there! I'm a passionate developer who loves creating beautiful and interactive web applications. I specialize in **JavaScript**, **React**, and **Node.js**.</p>
