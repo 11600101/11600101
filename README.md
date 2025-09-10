@@ -60,16 +60,9 @@ Here are a few of my recent projects:
 
 ---
 
-<svg width="600" height="200">
-  <foreignObject width="100%" height="100%">
-    <div xmlns="http://www.w3.org/1999/xhtml">
-      <style>
-        h1 { color: white; background: black; padding: 10px; }
-      </style>
-      <h1>Hello from SVG!</h1>
-    </div>
-  </foreignObject>
-</svg>
+<p align="center">
+  <img src="https://github.com/Sarvandani/Beautiful_github_profile/raw/main/terminal.gif" alt="Terminal Animation">
+</p>
 
 ---
 
