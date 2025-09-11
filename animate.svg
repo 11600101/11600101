@@ -11,7 +11,7 @@
         outline: none;
         box-sizing: border-box;
       }
-    .title{text-align: center; margin-bottom: -20px;font-size: 1.8rem;font-family: "Open sans",sans-serif;}
+    .title{color: var(--color-background);text-align: center; margin-bottom: -20px;font-size: 1.8rem;font-family: "Open sans",sans-serif;}
       .body {
         --color-main: #ff9b71;
         --color-primary: #ff4444;
