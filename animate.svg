@@ -225,3 +225,38 @@
   </div>
   </foreignObject>
 </svg>
+/*
+1. Image: Person in front of multiple monitors with code
+
+A silhouette or minimalistic drawing of someone facing a screen with lines of code.
+
+2. GIF: Typing rapidly in terminal or IDE
+
+Could be something like this:
+
+[ Programmer typing intensely with code scrolling ]
+
+3. Image: "It works!"
+
+A comic-style image where a programmer cheers when the code finally works, like:
+
+“I have no idea why it works, but it works!”
+
+4. GIF: "It compiles... ship it!"
+
+Reference to when a program runs without error, even if it’s not fully tested.
+
+5. Image: Brain vs. Bug
+
+A programmer thinking hard while a bug hides in the corner (cartoon-style).
+
+6. GIF: “This is fine” (with burning room)
+
+Often used to represent a programmer when code runs with known bugs or when prod is on fire.
+
+7. ASCII or minimalist design
+
+Something like:
+
+{ Code }
+ ☕ + 💻 = 🧠🔥*/
