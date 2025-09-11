@@ -1,4 +1,3 @@
-# Welcome to My GitHub Profile ✨
 <div style="width:100%; item-justyfy: center;">
   <a href="https://github.com/11600101/11600101/blame/main/animate.svg">
     <img src="animate.svg" style="width:100%;" alt="Click to see the source">
