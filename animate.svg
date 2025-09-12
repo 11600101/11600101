@@ -13,6 +13,13 @@
         --text-color: #ffffff; 
       }
     .title{color: var(--text-color);text-align: center; margin-bottom: -20px;font-size: 1.8rem;font-family: "Open sans",sans-serif;}
+
+      .hi {
+        display: inline-block;
+        transform-origin: 70% 70%;
+        animation: hi 3s linear -2s infinite;
+      }
+      
       .body {
         --color-main: #ff9b71;
         --color-primary: #ff4444;
