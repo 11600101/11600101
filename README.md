@@ -57,16 +57,10 @@ You can reach me through:
 ## Latest Projects 🚀
 Here are a few of my recent projects:
 
-- [Project 1](https://github.com/username/project1) - Description of the first project.
-- [Project 2](https://github.com/username/project2) - Description of the second project.
-- [Project 3](https://github.com/username/project3) - Description of the third project.
+- [Project 1](https://github.com/username/project1) - first project.
+- [Project 2](https://github.com/username/project2) - second project.
+- [Project 3](https://github.com/username/project3) - third project.
 
-
----
-
-<p float: left;>
-  <img src="https://github.com/Sarvandani/Beautiful_github_profile/raw/main/terminal.gif" alt="Terminal Animation">
-</p>
 
 ---
 
