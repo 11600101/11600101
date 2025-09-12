@@ -25,7 +25,7 @@
   <!-- Skill 2 -->
   <div style="width: 150px; text-align: center;">
     <a href="https://www.python.org/" target="_blank">
-    <img src="https://www.citypng.com/photo/20680/hd-python-logo-symbol-transparent-png"
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png"
          alt="Python" 
          style="width: 100px; height: 100px; object-fit: contain; border-radius: 10px; transition: transform 0.3s ease;">
     </a>
@@ -35,9 +35,10 @@
   <!-- Skill 3 -->
   <div style="width: 150px; text-align: center;">
     <a href="https://kotlinlang.org" target=_blank>
-    <img src="https://commons.wikimedia.org/wiki/File%3AC_Programming_Language.png"
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png"
          alt="C" 
          style="width: 100px; height: 100px; object-fit: contain; border-radius: 10px; transition: transform 0.3s ease;">
+    </a>
     <p>C</p>
   </div>
 </div>
