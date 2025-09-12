@@ -25,7 +25,7 @@
   <!-- Skill 2 -->
   <div style="width: 150px; text-align: center;">
     <a href="https://www.python.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Python-logo-notext.png"
+    <img src="https://www.citypng.com/photo/20680/hd-python-logo-symbol-transparent-png"
          alt="Python" 
          style="width: 100px; height: 100px; object-fit: contain; border-radius: 10px; transition: transform 0.3s ease;">
     </a>
