@@ -10,9 +10,9 @@
         list-style: none;
         outline: none;
         box-sizing: border-box;
-        
+        --text-color: #ffffff; 
       }
-    .title{--text-color: #ffffff; color: var(--text-color);text-align: center; margin-bottom: -20px;font-size: 1.8rem;font-family: "Open sans",sans-serif;}
+    .title{color: var(--text-color);text-align: center; margin-bottom: -20px;font-size: 1.8rem;font-family: "Open sans",sans-serif;}
       .body {
         --color-main: #ff9b71;
         --color-primary: #ff4444;
@@ -193,9 +193,10 @@
           --text-color: #000000
         }
       }
-      @media (prefers-color-scheme: light) 
+      @media (prefers-color-scheme: light) {
         .title {
-      --text-color: #000000
+        --text-color: #000000
+       }
       }
 
     </style>
