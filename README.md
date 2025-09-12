@@ -64,7 +64,7 @@ Here are a few of my recent projects:
 
 ---
 
-<p align="center">
+<p float: right;>
   <img src="https://github.com/Sarvandani/Beautiful_github_profile/raw/main/terminal.gif" alt="Terminal Animation">
 </p>
 
