@@ -199,6 +199,27 @@
        }
       }
 
+       @media (prefers-reduced-motion) {
+        .body {
+          animation: none;
+        }
+
+        .hi {
+          animation: none;
+        }
+
+        ul li {
+          opacity: 1;
+          animation: none;
+        }
+
+        h1 a span:nth-child(1),
+        h1 a span:nth-child(2),
+        h1 a span:nth-child(3) {
+          animation: none;
+        }
+      }
+
     </style>
     <h2 class="title">Welcome to My Github<span class="shine">✨</span></h2>
     <div class='body'>
