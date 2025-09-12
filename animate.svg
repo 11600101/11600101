@@ -10,8 +10,9 @@
         list-style: none;
         outline: none;
         box-sizing: border-box;
+        --text-color: #ffffff
       }
-    .title{color: var(--color-background);text-align: center; margin-bottom: -20px;font-size: 1.8rem;font-family: "Open sans",sans-serif;}
+    .title{color: var(--text-color);text-align: center; margin-bottom: -20px;font-size: 1.8rem;font-family: "Open sans",sans-serif;}
       .body {
         --color-main: #ff9b71;
         --color-primary: #ff4444;
@@ -189,6 +190,7 @@
           --color-background: #ffffff;
           --color-link: #00bbf9;
           --color-link-active: #f15bb5;
+          --text-color: #000000
         }
       }
 
