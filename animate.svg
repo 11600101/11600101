@@ -193,6 +193,10 @@
           --text-color: #000000
         }
       }
+      @media (prefers-color-scheme: light) 
+        * {
+      --text-color: #000000
+      }
 
     </style>
     <h2 class="title">Welcome to My Github<span class="shine">✨</span></h2>
